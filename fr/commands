@@ -1,0 +1,1 @@
+*== say "$(curl "http://$jv_pg_jd_ip:$jv_pg_jd_port/core/api/jeeApi.php?apikey=$jv_pg_jd_apikey&type=interact" --data-urlencode "query=$order")"
