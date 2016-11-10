@@ -19,5 +19,6 @@ You: <Jeedom Interaction Name>
 Jarvis: <Jeedom Interaction Response>
 ```
 
-## Author
+## Authors
 [Alex](https://github.com/alexylem)
+[Dud29](https://github.com/dud29)
